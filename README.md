@@ -75,8 +75,9 @@ Disallow:
 
 Sitemap: https://offenstallamwald.pages.dev/sitemap.xml
 ```
-
+```html
 <link rel="canonical" href="/" /> 
+```
 
 → href setzen
 
